@@ -25,3 +25,10 @@ git status is read as git | status | (no destination).
 
 How to:-
 https://cbea.ms/git-commit/
+
+//basics of git++
+
+//git stash: we put it to backstage and it will show not commit to make after making 
+changes
+//git stash pop: take back to onstage
+//git stash clear: clear backstage
