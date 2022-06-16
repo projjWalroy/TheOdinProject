@@ -32,3 +32,20 @@ https://cbea.ms/git-commit/
 changes
 //git stash pop: take back to onstage
 //git stash clear: clear backstage
+
+//branch:
+
+//git branch branch_name(create a branch)
+//git checkout branch_name(change to that branch)
+//git merge branch_name(merge that branch to origin)
+
+//road to pull request:
+
+//we need to fork a git repo -> we need to clone that to our local 
+machine -> we need to create branch -> we need to push that branch to origin
+of our forked -> *(then autometiaclly a pop up appered merge and pull request)
+
+//thats how it done
+//one branch can assosiated with only one pull request
+//create different branch for diifferent features
+//ONE BRANCH == ONE PULL request
