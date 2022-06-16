@@ -49,3 +49,11 @@ of our forked -> *(then autometiaclly a pop up appered merge and pull request)
 //one branch can assosiated with only one pull request
 //create different branch for diifferent features
 //ONE BRANCH == ONE PULL request
+
+//if we want to undo some pull request
+ we need to find specifit git log
+ then git reset specific_log
+ after git add .
+ git stashed
+
+//and then check git log, it will be gone
